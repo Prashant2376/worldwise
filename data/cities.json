@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "39c5",
+      "cityName": "Ternopil",
+      "country": "Ukraine",
+      "emoji": "🇺🇦",
+      "date": "2024-08-22T13:33:33.952Z",
+      "notes": "",
+      "position": {
+        "lat": "49.24140803466482",
+        "lng": "25.532225747601576"
+      }
+    },
+    {
+      "id": "f876",
+      "cityName": "El Burgo de Osma",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-23T19:30:27.492Z",
+      "notes": "",
+      "position": {
+        "lat": "41.559706707899",
+        "lng": "-3.0761718750000004"
+      }
+    },
+    {
+      "id": "c37d",
+      "cityName": "Torrecaballeros",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-23T20:09:57.921Z",
+      "notes": "baqd",
+      "position": {
+        "lat": "40.96547999039965",
+        "lng": "-3.9770507812500004"
+      }
+    },
+    {
+      "id": "1ee3",
+      "cityName": "Alfajarin",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T12:11:35.819Z",
+      "notes": "great place to visit",
+      "position": {
+        "lat": "41.57613578391179",
+        "lng": "-0.703125"
+      }
+    },
+    {
+      "id": "9749",
+      "cityName": "Valdepenas",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-24T12:37:31.525Z",
+      "notes": "smf",
+      "position": {
+        "lat": "38.70632956431042",
+        "lng": "-3.4277343750000004"
+      }
+    }
+  ]
+}
